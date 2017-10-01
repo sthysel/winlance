@@ -1,5 +1,7 @@
 # Lance the but-pimple that is Windows 10
 
+![](docs/pics/6e6.png)
+
 Of course you can't drain it all, Windows is putrid to the core. 
 
 ```
